@@ -248,7 +248,7 @@ main {
 
 .sidebar {
     margin-bottom: 15px;
-    max-height: 112px;
+    max-height: 150px;
     overflow: hidden;
     transition: var(--transition-2)
 }
@@ -267,7 +267,7 @@ main {
 
 .avatar-box {
     background: var(--bg-gradient-onyx);
-    border-radius: 20px
+    border-radius: 30px
 }
 
 .info-content .name {
